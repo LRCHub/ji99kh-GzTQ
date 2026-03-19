@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Attitude",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2026-02-27T13:50:23.518928Z",
+  "createdAt": "2026-03-19T05:19:48.371709Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,24 @@
       "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
       "path": "select/pl_01_Attitude_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Attitude",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/localdb_01_Attitude_Mrs._GREEN_APPLE.txt",
+      "repo_name": "ji99kh-GzTQ"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "Attitude",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/localdb_02_Attitude_Mrs._GREEN_APPLE.lrc",
+      "repo_name": "9rXMqcmvXkY"
     }
   ]
 }
